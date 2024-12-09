@@ -4,13 +4,7 @@ import * as Styles from "./style"
 import { ButtonType } from "../components/buttons/button/interfaces"
 import { Background } from "../components/inputs/input/interfaces"
 import { JustifyType } from "../components/align/interfaces"
-import {
-  CardBase,
-  Input,
-  Text,
-  Button,
-  NavTab,
-} from "../components"
+import { CardBase, Input, Text, Button, NavTab } from "../components"
 import { Align } from "../components/align/style"
 import { Size } from "../components/text"
 import {
